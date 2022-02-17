@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jayantnis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Jayantnishad
+- 👀 I’m interested in Coding,Problem_Solving,Logic_building
+- 🌱 I’m currently learning Java_Framework,Advance Java
+- 💞️ I’m looking to collaborate on Data store,Managament file and educational 
+- 📫 How to reach me 
 
 <!---
 Jayantnis/Jayantnis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
