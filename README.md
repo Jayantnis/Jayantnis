@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **React,Advance laravel, flutter , PHP ,Powergrid,Livewire, Wire Ui**
 
-- 📫 How to reach me **jayantnishad34@gmail.com**
+- 📫 How to reach me **jayantnishad**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jayant-nishad-8b9796191/](https://www.linkedin.com/in/jayant-nishad-8b9796191/)
 
