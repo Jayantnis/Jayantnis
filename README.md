@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jayant Nishad</h1>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1 align="center">
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  Hi 👋, I'm Jayant Nishad</h1>
+ 
 
 <h3 align="center">A passionate Sr. Software Developer from India</h3>
 <div align="center">
