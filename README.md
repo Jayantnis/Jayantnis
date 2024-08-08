@@ -5,9 +5,9 @@
  
 
 <h3 align="center">A passionate Sr. Software Developer from India</h3>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/SLBr5yLzocSYw/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantnis&label=Profile%20views&color=0e75b6&style=flat" alt="jayantnis" /> </p>
 
 - 🔭 I’m currently working on **DT Shelf**
