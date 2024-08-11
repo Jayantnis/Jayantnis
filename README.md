@@ -12,7 +12,7 @@
 </div> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantnis&label=Profile%20views&color=0e75b6&style=flat" alt="jayantnis" /> </p>
 
-- 🔭 I’m currently working on **DT Shelf Pty LTD. at Australia (Remote) and Role: Senior Software Developer**
+- 🔭 I’m currently working on **Senior Software Engineer at DT SHELF (Australia)**
 
 - 🌱 I’m currently learning **🌱 I’m currently deep learning: IoT,Embedded systems,ML,AI**
 
