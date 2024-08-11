@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Jayant%20Nishad&reversal=true&fontSize=50&fontAlignY=42"/>
+
 <h1 align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
    <br />
