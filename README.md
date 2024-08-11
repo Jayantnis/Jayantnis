@@ -12,13 +12,13 @@
 </div> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantnis&label=Profile%20views&color=0e75b6&style=flat" alt="jayantnis" /> </p>
 
-- 🔭 I’m currently working on **DT Shelf**
+- 🔭 I’m currently working on **DT Shelf Pty LTD. at Australia (Remote) and Role: Senior Software Developer**
 
-- 🌱 I’m currently learning **🌱 I’m currently learning: Machine Learning, Artificial Intelligence systems, and DevOps..**
+- 🌱 I’m currently learning **🌱 I’m currently deep learning: IoT,Embedded systems,ML,AI**
 
 - 👯 I’m looking to collaborate on **🔭 Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.**
 
-- 🤝 I’m looking for help with **Dynamic Apps**
+- 🤝 I’m looking for help with **Dynamic Apps,Website Developments,Desktop app (PHP,Java,Dart related frameworks)**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/jayant-nishad-8b9796191/](https://www.linkedin.com/in/jayant-nishad-8b9796191/)
 
