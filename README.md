@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **🔭 Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.**
 
-- 🤝 I’m looking for help with **Dynamic Apps,Website Developments,Desktop app (PHP,Java,Dart related frameworks)**
+- 🤝 I’m looking for help with **Dynamic Apps,Website Developments,Desktop app (PHP,Java,Dart related frameworks librarys)**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/jayant-nishad-8b9796191/](https://www.linkedin.com/in/jayant-nishad-8b9796191/)
 
