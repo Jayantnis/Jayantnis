@@ -15,6 +15,7 @@
 - 🔭 I’m currently working on **Senior Software Engineer at DT SHELF (Australia)**
 
 - 🌱 I’m currently learning **🌱 I’m currently deep learning: IoT,Embedded systems,ML,AI**
+- 🏁 my overall activity show in this Codolio** at [https://codolio.com/profile/E9S9RbXa]
 
 - 👯 I’m looking to collaborate on **🔭 Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.**
 
